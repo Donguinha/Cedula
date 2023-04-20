@@ -1,0 +1,15 @@
+C:\code\cedula\cedula\bin\Debug\net7.0\cedula.exe
+C:\code\cedula\cedula\bin\Debug\net7.0\cedula.deps.json
+C:\code\cedula\cedula\bin\Debug\net7.0\cedula.runtimeconfig.json
+C:\code\cedula\cedula\bin\Debug\net7.0\cedula.dll
+C:\code\cedula\cedula\bin\Debug\net7.0\cedula.pdb
+C:\code\cedula\cedula\obj\Debug\net7.0\cedula.csproj.AssemblyReference.cache
+C:\code\cedula\cedula\obj\Debug\net7.0\cedula.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\cedula\cedula\obj\Debug\net7.0\cedula.AssemblyInfoInputs.cache
+C:\code\cedula\cedula\obj\Debug\net7.0\cedula.AssemblyInfo.cs
+C:\code\cedula\cedula\obj\Debug\net7.0\cedula.csproj.CoreCompileInputs.cache
+C:\code\cedula\cedula\obj\Debug\net7.0\cedula.dll
+C:\code\cedula\cedula\obj\Debug\net7.0\refint\cedula.dll
+C:\code\cedula\cedula\obj\Debug\net7.0\cedula.pdb
+C:\code\cedula\cedula\obj\Debug\net7.0\cedula.genruntimeconfig.cache
+C:\code\cedula\cedula\obj\Debug\net7.0\ref\cedula.dll
